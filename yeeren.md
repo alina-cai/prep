@@ -1,2 +1,3 @@
-date | problems
-7/15   coupon collection
+| Date  | Problems |
+| ----- | -------- |
+| 7/15  | Coupon Collection |
