@@ -1,1 +1,4 @@
-date | problems solved
+| date        | problems |
+| ----------- | -------- |
+| 07.14.2025  | x        |
+|   |   |
